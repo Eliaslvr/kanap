@@ -16,7 +16,7 @@ Projet Kasa – plateforme de location immobilière.
 1. Cloner le projet :
 
 ```bash
-git clone <URL_DU_PROJET>
+git clone <https://github.com/Eliaslvr/kasa.git>
 cd kasa
 cd service
 npm install
