@@ -78,6 +78,13 @@ Le front-end est connecté à une **API** développée par l’équipe back-end,
 ## ⚙️ Installation du projet
 
 ### 1️⃣ Cloner le dépôt
+<<<<<<< HEAD
+
+```bash
+git clone https://github.com/Eliaslvr/kasa.git
+```
+
+### 2️⃣ Installer les dépendances
 
 ```bash
 git clone https://github.com/Eliaslvr/kanap.git
@@ -89,3 +96,4 @@ cd service
 npm install
 npm start
 ```
+
